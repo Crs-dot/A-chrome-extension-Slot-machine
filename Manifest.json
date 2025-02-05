@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Slot Machine!",
+  "description": "Slot machine game extension!",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/casino-16.png",
+      "48": "icons/casino-48.png",
+      "128": "icons/casino-128.png"
+    }
+  },
+  "permissions": []
+}

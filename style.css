@@ -1,0 +1,76 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #444;
+  }
+  
+  #slots {
+    font-size: 2.5em;
+    margin: 20px;
+  }
+  
+  .slot {
+    display: inline-block;
+    width: 80px;
+  }
+  
+  #controls {
+    margin: 20px;
+  }
+  
+  input, button {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #message {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  #balanceContainer {
+    margin-top: 20px;
+    font-size: 1.5em;
+  }
+  
+  #bankrupt {
+    color: red;
+    font-size: 2em;
+    font-weight: bold;
+    display: none;
+  }
+  
+  #spinFiveButton {
+    background-color: #f44336;
+  }
+  
+  #spinFiveButton:hover {
+    background-color: #e53935;
+  }
+  
+  #exitButton {
+    background-color: #2196F3;
+  }
+  
+  #exitButton:hover {
+    background-color: #1976D2;
+  }
+  
